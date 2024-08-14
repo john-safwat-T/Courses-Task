@@ -14,7 +14,7 @@ class AppTheme {
         fontWeight: FontWeight.w500,
         fontSize: 20
       ),
-        surfaceTintColor: Colors.transparent
+        surfaceTintColor: Colors.red
     ),
 
     scaffoldBackgroundColor: AppColors.white,
